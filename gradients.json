@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "boom yeah",
+        "colors": ["#fb67d7", "#a522fa", "#f264b0"]
     }
 ]
